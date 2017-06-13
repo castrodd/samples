@@ -1,0 +1,1 @@
+["1, deposit: 200, balance: 2200", "2, withdrawal: -25, balance: 2175", "3, deposit: 25, balance: 2200"]
